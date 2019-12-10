@@ -28,7 +28,8 @@
 ## 最小可行性
 着眼于用户的最基本需求，解决用户的占座问题为最小可行性。
 
-
+## 原型
+![image](https://github.com/NFUNM058/API/blob/master/38636c030f69d6cb9f41b3fa892d963.png)
 
 ## api 的具体应用
 1.身份证识别
