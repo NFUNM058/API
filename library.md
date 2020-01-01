@@ -392,7 +392,6 @@ Content-Type: application/json;charset=UTF-8
 ]
 }
 ```
-#### API2.使用比较分析 
 
 #### API2.使用比较分析 
 ### 1.身份证识别
