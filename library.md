@@ -70,11 +70,22 @@
 
 #### 原型1.交互及界面设计 
 
-交互及界面设计：在PRD文件中是否有说明且原型是否有做到：交互及界面设计的某个核心交互环节使用了人工智能的加值
+- ###### 身份证识别与人脸识别：
+在“初始页页”通过人工智能API——身份证或人脸识别识别用户的身份。
 
-#### 原型2.信息设计 
+![初始页.png](https://upload-images.jianshu.io/upload_images/9610547-529bf0fc3bbe3b0a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-信息设计：在PRD文件中是否有说明且原型是否有做到：信息设计的某个核心信息或设计使用了人工智能的加值
+- ###### 文本识别：
+在“首页”通过人工智能API——文本识别来识别图书的编码以记录借阅数据。
+
+![首页.png](https://upload-images.jianshu.io/upload_images/9610547-6614d1c0fbbfe098.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+#### 原型2.信息设计
+- ###### 语音合成： 
+在“感应器”通过用户输入自己设定的时间信息，按下“提示用户”按钮后通过人工智能API——语音合成来提示座位的用户。
+
+![感应器.png](https://upload-images.jianshu.io/upload_images/9610547-e6d13687a867f704.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 #### 原型3.原型文档 
 
